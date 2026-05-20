@@ -249,12 +249,5 @@ Through this project, the following concepts are practiced:
 ✔ Error Handling  
 ✔ Console Application Development
 
----
-
-## Author
-
-Jay Bhoi
-
-Graphic Designer | Developer
 
 ---
